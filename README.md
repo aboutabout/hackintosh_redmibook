@@ -17,4 +17,7 @@
 
 系统下载链接，建议使用迅雷下载  https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/macOS%20Mojave%2010.14(18A391)%20Installer%20with%20Clover%204674.dmg
 
+
+增加bigsur版本 安装界面俄文未改，三码未注入。
+
 有问题请联系我 luvroot#gmail.com
